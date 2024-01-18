@@ -1,1 +1,6 @@
-git+https://github.com/TinArmEngineering/tinarm.git@0.1.47
+git+https://github.com/TinArmEngineering/tinarm.git@0.1.49
+pint
+pandas
+pint-pandas
+matplotlib
+pyyaml
