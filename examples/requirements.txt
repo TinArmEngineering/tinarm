@@ -1,4 +1,4 @@
-git+https://github.com/TinArmEngineering/tinarm.git@0.1.70
+git+https://github.com/TinArmEngineering/tinarm.git@0.1.81
 pint
 pandas
 pint-pandas
