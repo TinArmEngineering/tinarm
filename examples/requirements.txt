@@ -1,6 +1,7 @@
-git+https://github.com/TinArmEngineering/tinarm.git@0.1.89
+#git+https://github.com/TinArmEngineering/tinarm.git@0.1.89
 pint
 pandas
 pint-pandas
 matplotlib
 pyyaml
+scipy
